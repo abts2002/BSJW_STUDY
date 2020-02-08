@@ -1,2 +1,0 @@
-# BSJW_STUDY
-Study
