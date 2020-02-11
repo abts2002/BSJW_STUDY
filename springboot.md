@@ -11,8 +11,8 @@
 
 ### param을 다 쓸 수 없으므로  모델을 만들어 멀티파라미터 구축
 
-### Spring Boot의 편의사항
-###   - JSON이 데이터 표준으로 자리잡아 Jackson, eson등을 쓰지 않고도 객체로 반환할 시 JSON형태로 데이터를 떨어뜨려줌 
+### Spring Boot의 편의사항 (SPRING이나 서블릿에서 Jackson, eson등으로 파싱했어야 했다.)
+###   - JSON이 HTTP 통신규격에서 데이터 표준으로 자리잡아 Jackson, eson등을 쓰지 않고도 객체로 반환할 시 JSON형태로 데이터를 떨어뜨려줌 
 
 
 
